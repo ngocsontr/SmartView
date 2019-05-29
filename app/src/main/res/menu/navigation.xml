@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav1"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="ホーム" />
+    <item
+        android:id="@+id/nav2"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="書類提出" />
+    <item
+        android:id="@+id/nav3"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="契約確認" />
+    <item
+        android:id="@+id/nav4"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="問い合わせ" />
+</menu>

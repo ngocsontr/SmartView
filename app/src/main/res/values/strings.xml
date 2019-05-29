@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SmartTech</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_title">新規会員登録</string>
+    <string name="register_description">サービスをご契約のお客様向けのご契約中のお客様の情報でご登録ください。サービスをご契約のお客様向けのご契約中のお客様の情報でご登録ください。</string>
+    <string name="have_account_already">すでにご登録済みの方はこちら</string>
+    <string name="change_pass_description">登録済みのメールアドレス馨入力してください。パスワード再設定用のリンク衡メールにてお送りいたします</string>
+    <string name="back_to_login_screen"><![CDATA[< ログインへ戻る]]></string>
+    <string name="change_password">パスワード忘れ</string>
+    <string name="enter_email_change_pass">メールアドレス</string>
+    <string name="button_send_request_email">再設定メール送信</string>
+    <string name="button_register">会員登録する</string>
+    <string name="forgot_password">パスワードを忘れた方はこちら</string>
+    <string name="button_login">会員登録する</string>
+    <string name="input_email">メールアドレス</string>
+    <string name="login_title">ログイン</string>
+    <string name="title_nav1">Home </string>
+    <string name="title_nav2">Home </string>
+    <string name="title_nav3">Home </string>
+    <string name="title_nav4">Home </string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_bot_nav">BotNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
